@@ -1,0 +1,11 @@
+root      8275  8250  0 13:44 pts/2    00:00:04 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.fqVq7ipZ8Px8
+root      8404  8379 20 13:46 pts/2    00:03:22 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.kEnvvZ2GpM5p
+root      8783  8758 25 13:52 pts/5    00:02:29 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.0tkk7o9nwbci
+root      8899  8874 25 13:53 pts/5    00:02:24 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.kMcHURab1ZmQ
+root      9021  8996  1 13:53 pts/5    00:00:06 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.DDBG5ZbABc3c
+root      9171  9145  1 13:54 pts/5    00:00:05 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.U1ZwZFiI9zqZ
+root      9309  9284  1 13:55 pts/5    00:00:05 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.UZcbiNnbuHAK
+root      9469  9444  1 13:56 pts/5    00:00:05 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.ihRFXMH2mJjY
+root      9622  9597  1 13:56 pts/5    00:00:05 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.G284LOrGwMJz
+root      9752  9727  1 13:57 pts/5    00:00:05 /usr/lib64/firefox/firefox -marionette -profile /tmp/rust_mozprofile.PLvbnBqvtyU8
+root     10183  8724  0 14:02 pts/6    00:00:00 grep firefox
