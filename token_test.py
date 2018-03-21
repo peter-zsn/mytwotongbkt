@@ -15,7 +15,7 @@ import random
 token = 'Njc1NzE1OX0wNDMxMjM3NjY0fTA0MzQzNTI1MDU'
 # token = 'MzU3NDkzOX0wNDA2MjczMTMwfTA0MDQ3NDc2Nzk'
 
-SECRET_KEY = '240897'
+SECRET_KEY = '*****'
 
 def strxor(s, key):
     "异或加密"
